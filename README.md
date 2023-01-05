@@ -51,18 +51,31 @@ Dedicated Cloud Engineer with 2+ years of experience in windows / Linux Administ
 SKILLS:
 
 •	Cloud Platforms: Azure, AWS, GCP, OpenStack
+
 •	Configuration Management Tools: Ansible, Chef, Puppet
+
 •	CI /CD Tools: Jenkins, Bamboo
+
 •	Build Tools: Maven, ANT, Gradle, NuGet
+
 •	Containerization Tools: Docker, Kubernetes, Mesos, OpenShift
+
 •	Version Control Tools: GIT, Bitbucket, SVN
+
 •	Logging & Monitoring Tools: Nagios, Splunk, ELK, CloudWatch, Azure Monitor, Prometheus, New Relic
+
 •	Orchestration Tools: Kubernetes, Docker swarm, Mesos
+
 •	Scripting & Programming Languages: Python, Bash/Shell, Perl, PowerShell, VBScript, Ruby, JavaScript, C, PHP, Java/ J2EE, .Net
+
 •	Databases: Oracle 10g/11g/12c, DB2, MySQL, NoSQL (MongoDB, DynamoDB, Cassandra)
+
 •	Application/Web Servers: Apache Tomcat, NGINX, IIS, JBoss4.1, WebSphere, Web Logic 9.x/10.x, Gerrit
+
 •	Operating Systems: UNIX, Linux, Windows, CentOS
+
 •	Virtualization Platforms: Oracle VirtualBox, VMware Workstation, Vagrant, VMware vSphere ESXi 5.x/4.X, ESX /3.x, Hyper-V
+
 •	Bug Tracking Tools: JIRA, Bugzilla, Remedy, Confidential Quality Center, IBM Clear Quest, Mingle
 
 
